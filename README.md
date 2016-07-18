@@ -11,6 +11,4 @@ The files you need to modify are:
  * strings.xml
  * AndroidManifest.xml
 
-Don't worry about webviewClient.java, we won't need that for our purposes. There's a lot of other stuff in this repository that AndroidStudio creates for you. I was just lazy and did the ol' "git add *".
-
 Oh yeah, in case you're running AndroidStudio on an AMD-based machine, the emulators won't work. At least they didn't for me and I tried a bunch of the non-x86 ones. Create one using Genymotion instead (genymotion.com, free for personal use). You can create a bunch of emulators then start one up. AndroidStudio will see it when you run your project. Sweet.
