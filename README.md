@@ -6,10 +6,10 @@ Best way to use this is to start with an AndroidStudio project with an empty act
 All set? Great. Now fire it up and create a project. Give it a cool name and company domain, select target devices, select Empty Activity (the default), and then [Finish].
 
 The files you need to modify are:
- activity_main.xml
- MainActivity.java
- strings.xml
- AndroidManifest.xml
+ * activity_main.xml
+ * MainActivity.java
+ * strings.xml
+ * AndroidManifest.xml
 
 Don't worry about webviewClient.java, we won't need that for our purposes. There's a lot of other stuff in this repository that AndroidStudio creates for you. I was just lazy and did the ol' "git add *".
 
