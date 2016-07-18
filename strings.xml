@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">webvew_3</string>
+    <string name="btn_ok">Ok</string>
+    <string name="err_connection_summary">Having trouble reaching Hello World. Please check your internet connection then restart the app.</string>
+</resources>
